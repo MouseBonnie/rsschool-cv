@@ -1,5 +1,5 @@
 # Alexandra Pozdniakova
-  ![Photo for CV](/photo4cv.jpg)
+  ![Photo for CV](./img/photo4cv.jpg)
   [This is my GitHub](https://github.com/MouseBonnie)
   
 ### Contact information:
@@ -30,5 +30,5 @@ function multiply(a, b){
 
 #### Languages:
   English:
-  ![My language lvl](/language.JPG)
+  ![My language lvl](./img/language.JPG)
   Russian - Native
