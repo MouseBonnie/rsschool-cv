@@ -1,1 +1,1 @@
-https://github.com/MouseBonnie/rsschool-cv/cv
+https://MouseBonnie.github.io/rsschool-cv/
