@@ -1,8 +1,9 @@
 # Alexandra Pozdniakova
-  ![Photo for CV](./img/photo4cv.jpg)
-  [This is my GitHub](https://github.com/MouseBonnie)
+![Photo for CV](./img/photo4cv.jpg)
+
+[This is my GitHub](https://github.com/MouseBonnie)
   
-### Contact information:
+#### Contact information:
   * Email: *itlittlemouse@gmail.com*
   * Telegram: *@bonbon26*
   * Discord: *Bonbon#3261*
@@ -30,5 +31,6 @@ function multiply(a, b){
 
 #### Languages:
 * English: 
+
 ![My language lvl](./img/language.JPG)
 * Russian - Native
