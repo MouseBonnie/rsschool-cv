@@ -2,15 +2,68 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/styles.css">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <title>CV</title>
 </head>
 
 <body>
-    <img src="./img/photo4cv.jpg" alt="My avatar">
+  <header class="cv-header container">
+    <a href="/" class="header-name"><span class="circle"></span>Alexandra Pozdniakova</a>
+    <nav class="navbar">
+      <ul class="links-container">
+        <li class="links-item"><a href="#resume-section" class="link">Resume</a></li>
+        <li class="links-item"><a href="#project-section" class="link">About Me</a></li>
+        <li class="links-item last"><a href="#contact-section" class="link">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="cv-main container">
+
+    <img class="cv-photo" src="./img/profile-photo.png" alt='Alexandra Pozdniakova'>
+
+    <div>
+      <section class="cv-body">
+        <h1 class="body-name">Alexandra Pozdniakova</h1>
+        <p class="hint-text">JavaScript Developer (Begginer)</p>
+        <h2>Briefly About Myself:</h2>
+        <p>
+          <i> "The Best Way To Predict The Future Is To Create It" </i> F.Shakleу <br>
+
+
+          The time of the year does not matter - there are many ideas which are still in infant stage,
+          which will shape up in future and so will the web.
+          And Frontend Developers will be needed to put these ideas into well formed visual stories.
+          This is just the beginning of my journey to IT,
+          but I am studying hard and will soon be useful to society as Frontend Developer!
+        </p>
+        <div class="buttons-group">
+          <a class="button-round" href="/resume">Resume</a>
+          <a class="button-round" href="/projects">Projects</a>
+          <a class="button-round" href="/Contacts">Contacts</a>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="cv-footer container">
+    <a href="https://github.com/MouseBonnie">
+      <img src="./img/github_logo.png" width="30" alt="">
+      my github
+    </a>
+    <a href="https://rs.school/js/" target="_blank">
+      <img width="100" src="./img/rs_school_js.svg" alt="rs_school" />
+    </a>
+    <p>
+      © 2022
+    </p>
+
+  </footer>
+
 </body>
 
 </html>
